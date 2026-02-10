@@ -1,3 +1,8 @@
 title: 『墓の彼方からの回想』試訳
 exclude: README.md
 lang: ja
+url: "https://kakimatsumura.net"
+baseurl: "/mot"
+
+plugins:
+  - jekyll-sitemap
