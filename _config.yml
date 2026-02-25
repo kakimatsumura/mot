@@ -1,0 +1,8 @@
+title: 『墓の彼方からの回想』試訳
+exclude: README.md
+lang: ja
+url: "https://kakimatsu.com"
+baseurl: "/mot"
+
+plugins:
+  - jekyll-sitemap
